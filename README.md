@@ -1,3 +1,3 @@
-# ProgrammingLanguages
-Discipline: "Programming Languages"
-Языки программирования: SML, Haskell, LISP, Ruby.
+# Programming Languages
+В данном репощитории представлены работы из курса "Языки программирования" на следующих язык: SML NJ, Haskell, Lisp, Ruby.
+Более подробное описание заданий расположено в каталоге PL\Tasks\*.
